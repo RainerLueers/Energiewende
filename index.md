@@ -1,5 +1,3 @@
-* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
-
 ---
 title: Energiewende
 ---  
